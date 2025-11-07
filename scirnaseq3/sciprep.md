@@ -137,7 +137,7 @@ The annealed N7 oligos are Tn5-N7 (<span class="sequence">5'-GTCTCGTGGGCTCGGAGAT
 To 20 μl of Tn5, add 20 μl of annealed N7 oligos. Place in a thermomixer and shake at 350 rpm and 23 °C for 30 min. Add 20 μl of glycerol. Store at -20 °C for &le;6 months.
 
 - <span class="buffer">Tagment DNA buffer (2×)</span><br>
-To 38.75 ml of nuclease-free water, add 1ml of 1M Tris pH7.6, 250μl of 2M MgCl<sub>2</sub> and 10 ml of dimethylformamide. The final volume is 50 ml. Make 550 μl aliquots and store them at -20 °C for &le;6 months.
+To 38.75 ml of nuclease-free water, add 1ml of 1M Tris pH7.6, 250μl of 2M MgCl<sub>2</sub> and 8% PEG-8000. The final volume is 50 ml. Make 550 μl aliquots and store them at -20 °C for &le;6 months.
 
 - <span class="buffer">Indexed primer plates</span><br>
 Primers for reverse transcription, ligation and PCR indexing steps are ordered at 100 μM. Working dilutions are made to 10 μM in EB (10 mM Tris-Cl pH 8.5) and kept at 4 °C for &le;6 months.
