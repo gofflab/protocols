@@ -257,10 +257,10 @@ Remove and discard the supernatant.
 
 ### Concentration of library and agarose gel purification
 
-1. Pool 5 μl of each well and do a 0.8× AMPure XP cleanup (230 μl of beads) by following the manufacturer's protocol.<br>
+1. Pool 5 μl of each well and do a 1.2× SPRI bead cleanup (230 μl of beads).<br>
   _Save the remaining plate by covering with foil and storing at room temperature or at 4°C for &le;6 months, in case you need to redo cleanup or if you anticipate needing more library for a large NovaSeq run._
 2. Wash the AMPure bead pellet twice gently with 70% (vol/vol) ethanol and elute the pool in 50 μl.
-3. **Perform size selection with 0.55-0.8x SPRISelect beads or homemade beads. See 10x v3 protocol for details. Or gel extraction for maximum recovery**
+3. **Perform size selection with gel extraction. Or gel extraction for maximum recovery**
 4. Run the library on NextSeq (or NovaSeq depending on the final cell numbers or sequencing depth desired) by using standard primers. (36x10x10xremaining)
 
 ## References
